@@ -1,0 +1,9 @@
+
+path : D:\DATA SCIENCE\Python\Python Projects\Helmet Detection
+train : archive\images\train
+val : archive\images\train
+
+names:
+  0: 'With Helmet'
+  1: 'Without Helmet'
+
